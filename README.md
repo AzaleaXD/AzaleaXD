@@ -41,12 +41,8 @@ Here are some of the tools and technologies I frequently use:
 
 These tools help me streamline my development process and improve productivity.
 
-## Contact Me
+## GitHub Stats
+![AzaleaXD's GitHub stats](https://github-readme-stats.vercel.app/api?username=AzaleaXD&show_icons=true&theme=radical)
 
-Feel free to reach out to me via:
-
-- **Email**: [azalea@example.com](mailto:azalea@example.com)
-- **LinkedIn**: [AzaleaXD](https://www.linkedin.com/in/azaleaxd/)
-- **Twitter**: [@AzaleaXD](https://twitter.com/AzaleaXD)
-
-Let's connect and collaborate!
+## Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AzaleaXD&layout=compact&theme=radical)
