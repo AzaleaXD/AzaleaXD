@@ -1,16 +1,3 @@
-# README
-
-## Languages I Use
-
-Here are some of the programming languages I frequently use:
-
-- **Python**: ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-- **JavaScript**: ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-- **HTML**: ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-- **CSS**: ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-Feel free to explore my projects to see examples of these languages in action!
-
 ## Current Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=AzaleaXD&theme=dark)
@@ -18,7 +5,12 @@ Feel free to explore my projects to see examples of these languages in action!
 ## Current Status
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AzaleaXD&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AzaleaXD&layout=compact&theme=dark)
+
+## GitHub Stats
+![AzaleaXD's GitHub stats](https://github-readme-stats.vercel.app/api?username=AzaleaXD&show_icons=true&theme=radical)
+
+## Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AzaleaXD&layout=compact&theme=radical)
 
 ## Latest Projects
 
@@ -30,19 +22,4 @@ Here are some of my latest projects:
 
 Check out my [GitHub repositories](https://github.com/AzaleaXD?tab=repositories) for more details on these and other projects.
 
-## Tools and Technologies
 
-Here are some of the tools and technologies I frequently use:
-
-- **Git**: ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-- **Docker**: ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-- **VS Code**: ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-- **Linux**: ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
-These tools help me streamline my development process and improve productivity.
-
-## GitHub Stats
-![AzaleaXD's GitHub stats](https://github-readme-stats.vercel.app/api?username=AzaleaXD&show_icons=true&theme=radical)
-
-## Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AzaleaXD&layout=compact&theme=radical)
