@@ -2,10 +2,6 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=AzaleaXD&theme=dark)
 
-## Current Status
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AzaleaXD&show_icons=true&theme=dark)
-
 ## GitHub Stats
 ![AzaleaXD's GitHub stats](https://github-readme-stats.vercel.app/api?username=AzaleaXD&show_icons=true&theme=radical)
 
